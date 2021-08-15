@@ -1,1 +1,2 @@
-# Different-Visual-Plot-of-Iris-data-using-Seaborn
+# Seaborn
+Showing different kind of plots
